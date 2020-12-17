@@ -1,0 +1,13 @@
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\obj\Debug\VLADFOM.ITMO.WindowsCalculator.csprojAssemblyReference.cache
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\obj\Debug\SimpleCalculator.CalcUI.resources
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\obj\Debug\SimpleCalculator.IngeneersCalc.resources
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\obj\Debug\SimpleCalculator.SquareEquationForm.resources
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\obj\Debug\VLADFOM.ITMO.WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\obj\Debug\VLADFOM.ITMO.WindowsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\bin\Debug\WindowsCalculator.exe
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\bin\Debug\WindowsCalculator.pdb
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\bin\Debug\CalculatorEngine.dll
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\bin\Debug\CalculatorEngine.pdb
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\obj\Debug\VLADFOM.ITMO.WindowsCalculator.csproj.CopyComplete
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\obj\Debug\WindowsCalculator.exe
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\obj\Debug\WindowsCalculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\CalculatorEngine\obj\Debug\CalculatorEngine.csprojAssemblyReference.cache
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Users\Ulyan\Downloads\VLADFOM.ITMO.WFControlTask-master\VLADFOM.ITMO.WFControlTask-master\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
