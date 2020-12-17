@@ -1,0 +1,2 @@
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-03\obj\Debug\ITMO.WPF.Lab01-03.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-03\obj\Debug\ITMO.WPF.Lab01-03_MarkupCompile.cache
