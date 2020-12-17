@@ -1,0 +1,5 @@
+C:\Users\Ulyan\Downloads\ITMO.WindowsApps.CSharp-master\ITMO.WPF.Lab04-01\obj\Debug\ITMO.WPF.Lab04-01.csprojAssemblyReference.cache
+C:\Users\Ulyan\Downloads\ITMO.WindowsApps.CSharp-master\ITMO.WPF.Lab04-01\obj\Debug\MainWindow.g.cs
+C:\Users\Ulyan\Downloads\ITMO.WindowsApps.CSharp-master\ITMO.WPF.Lab04-01\obj\Debug\App.g.cs
+C:\Users\Ulyan\Downloads\ITMO.WindowsApps.CSharp-master\ITMO.WPF.Lab04-01\obj\Debug\ITMO.WPF.Lab04-01_MarkupCompile.cache
+C:\Users\Ulyan\Downloads\ITMO.WindowsApps.CSharp-master\ITMO.WPF.Lab04-01\obj\Debug\ITMO.WPF.Lab04-01_MarkupCompile.lref

@@ -1,0 +1,9 @@
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-02\obj\Debug\ITMO.WPF.Lab01-02.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-02\obj\Debug\MainWindow.g.cs
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-02\obj\Debug\Page1.g.cs
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-02\obj\Debug\Page2.g.cs
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-02\obj\Debug\App.g.cs
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-02\obj\Debug\ITMO.WindowsApps.WPF.Les01-02_MarkupCompile.cache
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-02\obj\Debug\ITMO.WindowsApps.WPF.Les01-02_MarkupCompile.lref
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-02\obj\Debug\ITMO.WindowsApps.WPF.Les01-02.exe
+C:\Users\Ulyan\source\repos\ITMO.WPF.Labs\ITMO.WPF.Lab01-02\obj\Debug\ITMO.WindowsApps.WPF.Les01-02.pdb
