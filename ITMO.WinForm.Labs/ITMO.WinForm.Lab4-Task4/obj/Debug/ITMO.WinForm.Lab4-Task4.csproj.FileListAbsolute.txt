@@ -1,0 +1,5 @@
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task4\obj\Debug\ITMO.WinForm.Lab4_Task4.Form1.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task4\obj\Debug\ITMO.WinForm.Lab4_Task4.Form2.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task4\obj\Debug\ITMO.WinForm.Lab4_Task4.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task4\obj\Debug\ITMO.WinForm.Lab4-Task4.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task4\obj\Debug\ITMO.WinForm.Lab4-Task4.csproj.CoreCompileInputs.cache

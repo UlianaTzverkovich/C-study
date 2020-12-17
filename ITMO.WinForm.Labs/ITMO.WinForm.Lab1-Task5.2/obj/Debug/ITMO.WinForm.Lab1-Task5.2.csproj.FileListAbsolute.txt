@@ -1,0 +1,11 @@
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\bin\Debug\ITMO.WinForm.Lab1-Task5.2.exe.config
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\bin\Debug\ITMO.WinForm.Lab1-Task5.2.exe
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\bin\Debug\ITMO.WinForm.Lab1-Task5.2.pdb
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\obj\Debug\ITMO.WinForm.Lab1-Task5.2.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\obj\Debug\ITMO.WinForm.Lab1_Task5._2.Form1.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\obj\Debug\ITMO.WinForm.Lab1_Task5._2.Form2.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\obj\Debug\ITMO.WinForm.Lab1_Task5._2.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\obj\Debug\ITMO.WinForm.Lab1-Task5.2.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\obj\Debug\ITMO.WinForm.Lab1-Task5.2.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\obj\Debug\ITMO.WinForm.Lab1-Task5.2.exe
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab1-Task5.2\obj\Debug\ITMO.WinForm.Lab1-Task5.2.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab3-Task4\obj\Debug\ITMO.WinForm.Lab3-Task4.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab3-Task4\obj\Debug\ITMO.WinForm.Lab3_Task4.Form1.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab3-Task4\obj\Debug\ITMO.WinForm.Lab3_Task4.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab3-Task4\obj\Debug\ITMO.WinForm.Lab3_Task4.TextBoxChar.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab3-Task4\obj\Debug\ITMO.WinForm.Lab3_Task4.TextBoxEMail.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab3-Task4\obj\Debug\ITMO.WinForm.Lab3_Task4.TextBoxNum.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab3-Task4\obj\Debug\ITMO.WinForm.Lab3-Task4.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab3-Task4\obj\Debug\ITMO.WinForm.Lab3-Task4.csproj.CoreCompileInputs.cache

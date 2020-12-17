@@ -1,0 +1,5 @@
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab5-Task2\obj\Debug\ITMO.WinForm.Lab5-Task2.csproj.ResolveComReference.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab5-Task2\obj\Debug\ITMO.WinForm.Lab5_Task2.Form1.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab5-Task2\obj\Debug\ITMO.WinForm.Lab5_Task2.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab5-Task2\obj\Debug\ITMO.WinForm.Lab5-Task2.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab5-Task2\obj\Debug\ITMO.WinForm.Lab5-Task2.csproj.CoreCompileInputs.cache

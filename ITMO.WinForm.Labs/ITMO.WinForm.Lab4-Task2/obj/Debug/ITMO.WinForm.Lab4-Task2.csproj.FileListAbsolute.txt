@@ -1,0 +1,14 @@
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WindowsApps.CSharp.Lab04-02\obj\Debug\ITMO.WinForm.Lab4-Task2.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WindowsApps.CSharp.Lab04-02\obj\Debug\ITMO.WindowsApps.CSharp.Lab04_02.EditPersonForm.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WindowsApps.CSharp.Lab04-02\obj\Debug\ITMO.WinForm.Lab4_Task2.Form1.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WindowsApps.CSharp.Lab04-02\obj\Debug\ITMO.WinForm.Lab4_Task1.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WindowsApps.CSharp.Lab04-02\obj\Debug\ITMO.WinForm.Lab4-Task2.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WindowsApps.CSharp.Lab04-02\obj\Debug\ITMO.WinForm.Lab4-Task2.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task2\obj\Debug\ITMO.WinForm.Lab4-Task2.csprojAssemblyReference.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task2\obj\Debug\ITMO.WindowsApps.CSharp.Lab04_02.EditPersonForm.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task2\obj\Debug\ITMO.WinForm.Lab4_Task2.Form1.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task2\obj\Debug\ITMO.WinForm.Lab4_Task1.Properties.Resources.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task2\obj\Debug\ITMO.WinForm.Lab4-Task2.csproj.GenerateResource.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task2\obj\Debug\ITMO.WinForm.Lab4-Task2.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task2\obj\Debug\ITMO.WinForm.Lab4_Task2.EditPersonForm.resources
+C:\Users\Ulyan\source\repos\ITMO.WinForm.Labs\ITMO.WinForm.Lab4-Task2\obj\Debug\ITMO.WinForm.Lab4_Task2.Properties.Resources.resources

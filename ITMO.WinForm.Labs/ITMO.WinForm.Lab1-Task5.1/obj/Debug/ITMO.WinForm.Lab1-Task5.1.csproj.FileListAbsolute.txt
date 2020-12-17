@@ -1,0 +1,10 @@
+C:\Users\Ulyan\Downloads\WindowsForms-main\WindowsForms-main\ITMO.CourseCS.FormsApp.Ctrl.Lab01\ITMO.CourseCS.FormsApp.Ex05\bin\Debug\ITMO.CourseCS.FormsApp.Ex05.exe.config
+C:\Users\Ulyan\Downloads\WindowsForms-main\WindowsForms-main\ITMO.CourseCS.FormsApp.Ctrl.Lab01\ITMO.CourseCS.FormsApp.Ex05\bin\Debug\ITMO.CourseCS.FormsApp.Ex05.exe
+C:\Users\Ulyan\Downloads\WindowsForms-main\WindowsForms-main\ITMO.CourseCS.FormsApp.Ctrl.Lab01\ITMO.CourseCS.FormsApp.Ex05\bin\Debug\ITMO.CourseCS.FormsApp.Ex05.pdb
+C:\Users\Ulyan\Downloads\WindowsForms-main\WindowsForms-main\ITMO.CourseCS.FormsApp.Ctrl.Lab01\ITMO.CourseCS.FormsApp.Ex05\obj\Debug\ITMO.WinForm.Lab1-Task5.1.csprojAssemblyReference.cache
+C:\Users\Ulyan\Downloads\WindowsForms-main\WindowsForms-main\ITMO.CourseCS.FormsApp.Ctrl.Lab01\ITMO.CourseCS.FormsApp.Ex05\obj\Debug\ITMO.CourseCS.FormsApp.Ex05.Form1.resources
+C:\Users\Ulyan\Downloads\WindowsForms-main\WindowsForms-main\ITMO.CourseCS.FormsApp.Ctrl.Lab01\ITMO.CourseCS.FormsApp.Ex05\obj\Debug\ITMO.CourseCS.FormsApp.Ex05.Properties.Resources.resources
+C:\Users\Ulyan\Downloads\WindowsForms-main\WindowsForms-main\ITMO.CourseCS.FormsApp.Ctrl.Lab01\ITMO.CourseCS.FormsApp.Ex05\obj\Debug\ITMO.WinForm.Lab1-Task5.1.csproj.GenerateResource.cache
+C:\Users\Ulyan\Downloads\WindowsForms-main\WindowsForms-main\ITMO.CourseCS.FormsApp.Ctrl.Lab01\ITMO.CourseCS.FormsApp.Ex05\obj\Debug\ITMO.WinForm.Lab1-Task5.1.csproj.CoreCompileInputs.cache
+C:\Users\Ulyan\Downloads\WindowsForms-main\WindowsForms-main\ITMO.CourseCS.FormsApp.Ctrl.Lab01\ITMO.CourseCS.FormsApp.Ex05\obj\Debug\ITMO.CourseCS.FormsApp.Ex05.exe
+C:\Users\Ulyan\Downloads\WindowsForms-main\WindowsForms-main\ITMO.CourseCS.FormsApp.Ctrl.Lab01\ITMO.CourseCS.FormsApp.Ex05\obj\Debug\ITMO.CourseCS.FormsApp.Ex05.pdb
